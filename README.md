@@ -9,6 +9,7 @@ Application status workflow (Applied → Interview → Offer → Accepted/Reject
 Document management (resumes, cover letters)
 Interview scheduling and notes
 Analytics dashboard
+```
 
 ## Architecture Diagram
 ```
