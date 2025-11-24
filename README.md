@@ -1,7 +1,8 @@
 # Job Application Tracker 
 Ruby on Rails Job Application Tracker
 
-Core Features:
+## Core Features:
+```
 
 Track job applications (company, position, status, dates)
 Application status workflow (Applied → Interview → Offer → Accepted/Rejected)
